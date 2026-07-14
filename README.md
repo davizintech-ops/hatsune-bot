@@ -1,5 +1,9 @@
 # 🤖 Hatsune Bot
 
+<p align="center">
+  <img src="./arquivos/media/menu.jpg" width="200">
+</p>
+
 Um bot de WhatsApp desenvolvido com **Node.js** e **Baileys**, focado em moderação, diversão, utilidades e downloads de mídia.
 
 ![GitHub stars](https://img.shields.io/github/stars/davizintech-ops/hatsune-bot?style=for-the-badge)
